@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-labelledby="title">
+	<title id="title">FitMate logo</title>
+	<defs>
+		<linearGradient id="blue" x1="34" y1="154" x2="158" y2="38" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#49b9ed"/>
+			<stop offset="1" stop-color="#0788ed"/>
+		</linearGradient>
+	</defs>
+	<rect x="14" y="14" width="164" height="164" rx="34" fill="none" stroke="#d9dde2" stroke-width="3"/>
+	<path d="M43 128 79 92 43 56 58 41l36 36 36-36 15 15-36 36 36 36-15 15-36-36-36 36z" fill="url(#blue)"/>
+</svg>
